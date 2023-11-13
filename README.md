@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Slayer-Regen
+- 👋 Hi, I’m Abbas Hassan
 - 👀 I’m interested in MERN STACK
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on Data science projects
